@@ -1,1 +1,1 @@
-theme: Cayman
+remote_theme: Cayman
